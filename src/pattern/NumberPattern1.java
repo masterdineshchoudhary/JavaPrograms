@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Pyramid of Numbers
 
-public class Pattern1 {
+public class NumberPattern1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("How many rows");
