@@ -2,7 +2,7 @@ package pattern;
 
 import java.util.Scanner;
 
-// package Pyramid of Numbers;
+// Pyramid of Numbers
 
 public class Pattern2 {
     public static void main(String[] args) {
