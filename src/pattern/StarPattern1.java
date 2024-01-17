@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Pyramid of Star
 
-public class Pattern3 {
+public class StarPattern1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("How many rows");
