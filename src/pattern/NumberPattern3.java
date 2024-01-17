@@ -2,9 +2,9 @@ package pattern;
 
 import java.util.Scanner;
 
-// package Pyramid of Numbers;
+// Pyramid of Numbers
 
-public class Pattern4 {
+public class NumberPattern3 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("How many rows");
